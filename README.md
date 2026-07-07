@@ -29,14 +29,6 @@ A modern frontend clone of the **K72 Agency** website built using **React**, **V
 
 ---
 
-## 📸 Preview
-
-<img width="100%" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1200" alt="Project Preview"/>
-
-> Replace this image with screenshots or a GIF of your project.
-
----
-
 ## 📂 Project Structure
 
 ```
